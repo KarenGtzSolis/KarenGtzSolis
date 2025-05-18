@@ -44,13 +44,6 @@ I'm a passionate student of software development, user-centered design, and proj
 
 ---
 
-## 🌟 Notable Involvements
-
-- 🏆 **Hackathon MTY (2023)** – Developed a financial virtual assistant with my team.  
-- 🤝 **Tec Consulting & Data Science Coordinator (2023)** – Coordinated events and collaborated with companies for data science team projects.
-
----
-
 ## 📊 GitHub Stats
 
 ![KarenGtzSolis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarenGtzSolis&show_icons=true&theme=tokyonight)  
