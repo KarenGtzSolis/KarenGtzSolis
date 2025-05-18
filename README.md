@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Karen Gutiérrez Solís
+**Ingeniera en Tecnologías Computacionales**
 
-<!--
-**KarenGtzSolis/KarenGtzSolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una estudiante apasionada por el desarrollo de software, el diseño centrado en el usuario y la gestión de proyectos tecnológicos. Me gusta trabajar en equipo, aprender nuevas herramientas y aplicar soluciones prácticas para mejorar procesos y experiencias.
 
-Here are some ideas to get you started:
+📍 Monterrey, Nuevo León  
+🎓 Estudiante de B.S. in Computer Science and Technology (2021–2025) en el Tecnológico de Monterrey  
+🎯 GPA: 4.0 / 96  
+📫 karengtz04@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/karen-gutiérrez-solís)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,dotnet,csharp,swift,kotlin,mongodb,mysql,git,docker,figma" />
+</p>
+
+---
+
+## 🌟 Participaciones Relevantes
+
+- 🏆 **Hackaton MTY (2023)** – Desarrollé un asistente virtual financiero con mi equipo.  
+- 🤝 **Tec Consulting & Data Science Coordinator (2023)** – Coordinación de eventos y colaboración con empresas para equipos de ciencia de datos.
+
+---
+
+## 📊 GitHub Stats
+
+![KarenGtzSolis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarenGtzSolis&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenGtzSolis&layout=compact&theme=tokyonight)
+
+---
+
+¡Gracias por visitar mi perfil! 💙
