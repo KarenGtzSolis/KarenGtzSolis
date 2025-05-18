@@ -5,7 +5,6 @@ I'm a passionate student of software development, user-centered design, and proj
 
 📍 Monterrey, Nuevo León  
 🎓 B.S. in Computer Science and Technology (2021–2025) at Tecnológico de Monterrey  
-🎯 GPA: 4.0 / 96  
 📫 karengtz04@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/karen-gutiérrez-solís)  
 
