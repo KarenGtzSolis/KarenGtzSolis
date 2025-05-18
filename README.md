@@ -14,8 +14,33 @@ Soy una estudiante apasionada por el desarrollo de software, el diseño centrado
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,dotnet,csharp,swift,kotlin,mongodb,mysql,git,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,csharp,swift,kotlin" />
 </p>
+
+### 🌐 Desarrollo Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,dotnet" />
+</p>
+
+### 🧪 Testing y Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,figma" />
+</p>
+
+### 🗄️ Bases de Datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 📱 Desarrollo Móvil
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,dotnet" />
+</p>
+
 
 ---
 
