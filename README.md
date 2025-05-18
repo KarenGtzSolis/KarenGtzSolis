@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karen Gutiérrez Solís  
+#  Hi, I'm Karen Gutiérrez Solís  
 **Computer Science and Technology Engineer**
 
 I'm a passionate student of software development, user-centered design, and project management. I enjoy working in teams, learning new tools, and applying practical solutions to improve processes and experiences.
