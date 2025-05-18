@@ -1,10 +1,10 @@
-# 👋 Hola, soy Karen Gutiérrez Solís
-**Ingeniera en Tecnologías Computacionales**
+# 👋 Hi, I'm Karen Gutiérrez Solís  
+**Computer Science and Technology Engineer**
 
-Soy una estudiante apasionada por el desarrollo de software, el diseño centrado en el usuario y la gestión de proyectos tecnológicos. Me gusta trabajar en equipo, aprender nuevas herramientas y aplicar soluciones prácticas para mejorar procesos y experiencias.
+I'm a passionate student of software development, user-centered design, and project management. I enjoy working in teams, learning new tools, and applying practical solutions to improve processes and experiences.
 
 📍 Monterrey, Nuevo León  
-🎓 Estudiante de B.S. in Computer Science and Technology (2021–2025) en el Tecnológico de Monterrey  
+🎓 B.S. in Computer Science and Technology (2021–2025) at Tecnológico de Monterrey  
 🎯 GPA: 4.0 / 96  
 📫 karengtz04@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/karen-gutiérrez-solís)  
@@ -13,41 +13,42 @@ Soy una estudiante apasionada por el desarrollo de software, el diseño centrado
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,csharp,swift,kotlin" />
 </p>
 
-### 🌐 Desarrollo Web
+### 🌐 Web Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,dotnet" />
 </p>
 
-### 🧪 Testing y Herramientas
+### 🧪 Testing & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,figma" />
 </p>
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 📱 Desarrollo Móvil
+### 📱 Mobile Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,swift,dotnet" />
 </p>
 
-
 ---
 
-## 🌟 Participaciones Relevantes
+## 🌟 Notable Involvements
 
-- 🏆 **Hackaton MTY (2023)** – Desarrollé un asistente virtual financiero con mi equipo.  
-- 🤝 **Tec Consulting & Data Science Coordinator (2023)** – Coordinación de eventos y colaboración con empresas para equipos de ciencia de datos.
+- 🏆 **Hackathon MTY (2023)** – Developed a financial virtual assistant with my team.  
+- 🤝 **Tec Consulting & Data Science Coordinator (2023)** – Coordinated events and collaborated with companies for data science team projects.
 
 ---
 
@@ -58,4 +59,4 @@ Soy una estudiante apasionada por el desarrollo de software, el diseño centrado
 
 ---
 
-¡Gracias por visitar mi perfil! 💙
+Thanks for visiting my profile! 💙
